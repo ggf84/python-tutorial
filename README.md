@@ -1,6 +1,6 @@
-# Welcome to Python Tutorial for Beginners
+# Welcome
 
-This series of tutorials is a collaborative effort taking place at IF-UFRGS, Brazil. Our main goal is to help undergrad students to learn Python programming.
+This series of Python tutorials is a collaborative effort taking place at IF-UFRGS, Brazil. Our main goal is to help undergrad students to learn Python programming.
 
 **Note:** Please bear in mind this is a work in progress and most of the tutorials are still unfinished and/or unorganized.
 
