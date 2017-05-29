@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to our Python Tutorial for Beginners
 
-You can use the [editor on GitHub](https://github.com/ggf84/python-tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page is a collaborative effort in order to help students at IF-UFRGS to get started learning Python.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Note:** Please bear in mind this is a work in progress and most of the tutorials are still unfinished and unorganized.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Table of Contents
 
-```markdown
-Syntax highlighted code block
+* Python
+  * [Intro and Setup](https://github.com/ggf84/python-tutorial/blob/master/00-IntroAndSetup.ipynb)
+  * [Getting Started](https://github.com/ggf84/python-tutorial/blob/master/01-GettingStarted.ipynb)
+  * [Basic Datatypes - `bool`, `int`, `float`, `str`](https://github.com/ggf84/python-tutorial/blob/master/02-BasicDatatypes.ipynb)
+  * [Data Structures - `list`, `tuple`, `dict`, `set`](https://github.com/ggf84/python-tutorial/blob/master/03-BasicDataStructures.ipynb)
+  * [Control Flow Statements - `if`, `else`, `for`, `while`, etc](https://github.com/ggf84/python-tutorial/blob/master/04-ControlFlowStatements.ipynb)
+  * [Functions and Modules](https://github.com/ggf84/python-tutorial/blob/master/05-FunctionsAndModules.ipynb)
+  * [Classes and Objects](https://github.com/ggf84/python-tutorial/blob/master/06-ClassesAndOOP.ipynb)
+* Numpy
+  * TODO
+* Matplotlib
+  * [Introduction to Matplotlib](https://github.com/ggf84/python-tutorial/blob/master/Intro_to_Matplotlib.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## LICENSE
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ggf84/python-tutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[MIT License](https://github.com/ggf84/python-tutorial/blob/master/LICENSE)
