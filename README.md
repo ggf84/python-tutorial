@@ -19,7 +19,7 @@ This series of python tutorials is a collaborative effort taking place at IF-UFR
   * [Standard Library Overview](https://github.com/ggf84/python-tutorial/blob/master/07-StdLibOverview.ipynb)
 
 * Plotting and Data Visualization
-  * [`matplotlib`](https://github.com/ggf84/python-tutorial/blob/master/Intro_to_Matplotlib.ipynb)
+  * [Introduction to `matplotlib`](https://github.com/ggf84/python-tutorial/blob/master/Intro_to_Matplotlib.ipynb)
   * `bokeh` - TODO
   * `vispy` - TODO
   * `yt` - TODO
