@@ -32,6 +32,6 @@ This series of Python tutorials is a collaborative effort taking place at IF-UFR
   * `astroml` - TODO
 
 
-## LICENSE
+## License
 
-This work is licensed under the [MIT License](https://github.com/ggf84/python-tutorial/blob/master/LICENSE)
+This work is licensed under the [MIT License](https://github.com/ggf84/python-tutorial/blob/master/LICENSE).
