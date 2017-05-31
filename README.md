@@ -8,19 +8,30 @@ This series of Python tutorials is a collaborative effort taking place at IF-UFR
 ## Table of Contents
 
 * Python
-  * [Intro and Setup](https://github.com/ggf84/python-tutorial/blob/master/00-IntroAndSetup.ipynb)
+  * [Introduction and Setup](https://github.com/ggf84/python-tutorial/blob/master/00-IntroAndSetup.ipynb)
   * [Getting Started](https://github.com/ggf84/python-tutorial/blob/master/01-GettingStarted.ipynb)
-  * [Basic Datatypes - `bool`, `int`, `float`, `str`](https://github.com/ggf84/python-tutorial/blob/master/02-BasicDatatypes.ipynb)
-  * [Data Structures - `list`, `tuple`, `dict`, `set`](https://github.com/ggf84/python-tutorial/blob/master/03-BasicDataStructures.ipynb)
+  * [Builtin Data Types - `bool`, `int`, `float`, `complex`, `str`](https://github.com/ggf84/python-tutorial/blob/master/02-BuiltinDataTypes.ipynb)
+  * [Builtin Data Structures - `list`, `tuple`, `dict`, `set`](https://github.com/ggf84/python-tutorial/blob/master/03-BuiltinDataStructures.ipynb)
   * [Control Flow Statements - `if`, `else`, `for`, `while`, etc](https://github.com/ggf84/python-tutorial/blob/master/04-ControlFlowStatements.ipynb)
   * [Functions and Modules](https://github.com/ggf84/python-tutorial/blob/master/05-FunctionsAndModules.ipynb)
   * [Classes and Objects](https://github.com/ggf84/python-tutorial/blob/master/06-ClassesAndOOP.ipynb)
-* Numpy
-  * TODO
-* Matplotlib
-  * [Introduction to Matplotlib](https://github.com/ggf84/python-tutorial/blob/master/Intro_to_Matplotlib.ipynb)
+  * [Python Standard Library Overview](https://github.com/ggf84/python-tutorial/blob/master/07-StdLibOverview.ipynb)
+* Plotting and Data Visualization
+  * [`matplotlib`](https://github.com/ggf84/python-tutorial/blob/master/Intro_to_Matplotlib.ipynb)
+  * `bokeh` - TODO
+  * `vispy` - TODO
+  * `yt` - TODO
+* Scientific Computing
+  * `numpy` - TODO
+  * `scipy` - TODO
+  * `h5py` - TODO
+  * `pandas` - TODO
+  * `pyopencl` - TODO
+* Astronomy
+  * `astropy` - TODO
+  * `astroml` - TODO
 
 
 ## LICENSE
 
-[MIT License](https://github.com/ggf84/python-tutorial/blob/master/LICENSE)
+This work is licensed under the [MIT License](https://github.com/ggf84/python-tutorial/blob/master/LICENSE)
