@@ -11,8 +11,8 @@ This series of python tutorials is a collaborative effort taking place at IF-UFR
 
 * Python Programming Language
   * [Getting Started](https://github.com/ggf84/python-tutorial/blob/master/01-GettingStarted.ipynb)
-  * [Builtin Data Types - `bool`, `int`, `float`, `complex`, `str`](https://github.com/ggf84/python-tutorial/blob/master/02-BuiltinDataTypes.ipynb)
-  * [Builtin Data Structures - `list`, `tuple`, `dict`, `set`](https://github.com/ggf84/python-tutorial/blob/master/03-BuiltinDataStructures.ipynb)
+  * [Built-in Data Types - `bool`, `int`, `float`, `complex`, `str`](https://github.com/ggf84/python-tutorial/blob/master/02-BuiltinDataTypes.ipynb)
+  * [Built-in Data Structures - `list`, `tuple`, `dict`, `set`](https://github.com/ggf84/python-tutorial/blob/master/03-BuiltinDataStructures.ipynb)
   * [Control Flow Statements - `if`, `else`, `for`, `while`, etc](https://github.com/ggf84/python-tutorial/blob/master/04-ControlFlowStatements.ipynb)
   * [Functions and Modules](https://github.com/ggf84/python-tutorial/blob/master/05-FunctionsAndModules.ipynb)
   * [Classes and Objects](https://github.com/ggf84/python-tutorial/blob/master/06-ClassesAndObjects.ipynb)
