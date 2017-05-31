@@ -14,7 +14,7 @@ This series of Python tutorials is a collaborative effort taking place at IF-UFR
   * [Builtin Data Structures - `list`, `tuple`, `dict`, `set`](https://github.com/ggf84/python-tutorial/blob/master/03-BuiltinDataStructures.ipynb)
   * [Control Flow Statements - `if`, `else`, `for`, `while`, etc](https://github.com/ggf84/python-tutorial/blob/master/04-ControlFlowStatements.ipynb)
   * [Functions and Modules](https://github.com/ggf84/python-tutorial/blob/master/05-FunctionsAndModules.ipynb)
-  * [Classes and Objects](https://github.com/ggf84/python-tutorial/blob/master/06-ClassesAndOOP.ipynb)
+  * [Classes and Objects](https://github.com/ggf84/python-tutorial/blob/master/06-ClassesAndObjects.ipynb)
   * [Python Standard Library Overview](https://github.com/ggf84/python-tutorial/blob/master/07-StdLibOverview.ipynb)
 * Plotting and Data Visualization
   * [`matplotlib`](https://github.com/ggf84/python-tutorial/blob/master/Intro_to_Matplotlib.ipynb)
